@@ -1,0 +1,6 @@
+.env
+ecliptica.db
+__pycache__/
+*.pyc
+.venv/
+venv/
